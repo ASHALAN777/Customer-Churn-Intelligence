@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 *(Add your Streamlit link here after deployment)*
+ Streamlit link will  be added here 
 
 ---
 
