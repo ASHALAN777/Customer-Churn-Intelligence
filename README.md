@@ -133,7 +133,7 @@ tenure,MonthlyCharges,Contract,InternetService,Dependents
 
 ## 📸 Screenshots
 
-👉 *(Add your UI screenshots here — VERY IMPORTANT)*
+ Pictures will be added soon
 
 ---
 
