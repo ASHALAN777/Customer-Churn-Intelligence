@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
- Streamlit link will  be added here 
+[ Streamlit link will  be added here ](https://customer-churn-intelligence-0.streamlit.app/)
 
 ---
 
